@@ -12,4 +12,4 @@ Model as a Guard of Bleached Corals
 4. Self-Attention Layer
 
 ## Project Presentation PPT
-![Welcome_to_CoralGuard](Welcome_to_CoralGuard.pdf)
+![Welcome_to_CoralGuard.pdf](Welcome_to_CoralGuard.pdf)
