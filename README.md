@@ -10,3 +10,6 @@ Model as a Guard of Bleached Corals
 2. YooSeong Activation Function
 3. CleverLoss
 4. Self-Attention Layer
+
+## Project Presentation PPT
+![Welcome to CoralGuard.pdf](Welcome to CoralGuard.pdf)
